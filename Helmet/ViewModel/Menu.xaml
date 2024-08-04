@@ -1,0 +1,64 @@
+﻿<Page x:Class="Helmet.ViewModel.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Helmet.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Menu">
+
+    <Grid>
+        <Grid Margin="0,0,383,0" Height="450" VerticalAlignment="Center" Background="#FFEADBC8">
+            <Label Content="Helmet distinction" Margin="65,41,508,365" Foreground="#FF0F2C59" FontSize="24" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold"/>
+            <Button x:Name="Checking_btn" Content="Checking&#xD;&#xA;  Helmet" BorderBrush="#FF59A2AB" Opacity="0.7" Command="{Binding Tb}" Width="292" Height="208" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Comic Sans MS" FontSize="40" FontWeight="Bold" Foreground="#FF805733" Click="Checking_btn_Click">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="70"/>
+                    </Style>
+                </Button.Resources>
+                <Button.Background>
+                    <SolidColorBrush Color="White" Opacity="1"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="Up_lb" Content="Helmet Distinction" Margin="10,0,200,380" Foreground="#FF805733" FontSize="20" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold" Height="33" VerticalAlignment="Bottom"/>
+            <Rectangle HorizontalAlignment="Center" Height="5" Margin="0,68,0,0" Stroke="White" VerticalAlignment="Top" Width="399" RenderTransformOrigin="0.5,0.5" Fill="White">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+        </Grid>
+        <Grid Margin="400,0,0,0" Height="450" Width="400" VerticalAlignment="Center">
+            <Grid.Background>
+                <SolidColorBrush Color="White" Opacity="0.8"/>
+            </Grid.Background>
+            <Label Content="Helmet distinction" Margin="65,41,508,365" Foreground="#FF0F2C59" FontSize="24" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold"/>
+            <Button x:Name="Result_btn" Content="Historical&#xD;&#xA;  Inquiry" BorderBrush="#FF59A2AB" Opacity="0.7" Command="{Binding Tb}" Width="292" Height="208" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Comic Sans MS" FontSize="40" FontWeight="Bold" Foreground="#FF634B4B" Click="Result_btn_Click">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="70"/>
+                    </Style>
+                </Button.Resources>
+                <Button.Background>
+                    <SolidColorBrush Color="#FFEADBC8" Opacity="1"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="Down_lb" Content="Helmet Distinction" Margin="185,368,30,0" Foreground="#FF805733" FontSize="20" FontFamily="Hancom MalangMalang Bold" FontWeight="Bold" Height="33" VerticalAlignment="Top"/>
+            <Rectangle HorizontalAlignment="Center" Margin="0,366,0,79" Stroke="#FFEADBC8" Width="514" RenderTransformOrigin="0.5,0.5" Fill="#FFEADBC8">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+        </Grid>
+    </Grid>
+</Page>

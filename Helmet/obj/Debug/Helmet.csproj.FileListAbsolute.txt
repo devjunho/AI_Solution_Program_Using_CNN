@@ -1,0 +1,102 @@
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.csproj.AssemblyReference.cache
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\MainWindow.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Checking.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\History.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Join.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Login.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Menu.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\App.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet_Content.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet_MarkupCompile.cache
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet_MarkupCompile.lref
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\Helmet.exe.config
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\Helmet.exe
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\Helmet.pdb
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\OpenCvSharp.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Buffers.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Drawing.Common.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Memory.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.ValueTuple.dll
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\OpenCvSharp.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Buffers.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Memory.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhlee\source\repos\Helmet\bin\Debug\System.ValueTuple.xml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\MainWindow.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Checking.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\History.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Join.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Login.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Menu.baml
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.g.resources
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.Properties.Resources.resources
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.csproj.GenerateResource.cache
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.csproj.CoreCompileInputs.cache
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.csproj.Up2Date
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.exe
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\Helmet.pdb
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Result.g.cs
+C:\Users\jhlee\source\repos\Helmet\obj\Debug\ViewModel\Result.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\Helmet.exe.config
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\Helmet.exe
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\Helmet.pdb
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\Newtonsoft.Json.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\OpenCvSharp.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Buffers.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Drawing.Common.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Memory.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Numerics.Vectors.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.ValueTuple.dll
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\Newtonsoft.Json.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\OpenCvSharp.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Buffers.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Drawing.Common.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Memory.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Numerics.Vectors.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\bin\Debug\System.ValueTuple.xml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.csproj.AssemblyReference.cache
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\MainWindow.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Checking.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\History.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Join.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Login.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Menu.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Result.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\App.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet_Content.g.cs
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet_MarkupCompile.cache
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet_MarkupCompile.lref
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\MainWindow.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Checking.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\History.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Join.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Login.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Menu.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\ViewModel\Result.baml
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.g.resources
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.Properties.Resources.resources
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.csproj.GenerateResource.cache
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.csproj.CoreCompileInputs.cache
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.csproj.Up2Date
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.exe
+D:\CNN을 활용한 AI 솔루션 프로그램_개발계획서\Helmet\obj\Debug\Helmet.pdb
